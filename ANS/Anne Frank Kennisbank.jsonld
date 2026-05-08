@@ -76,43 +76,5 @@
 				"en"
 			]
 		},
-		{
-			"@type": "DataDownload",
-			"encodingFormat": "application/trig",
-			"contentUrl": "https://data.netwerkdigitaalerfgoed.nl/Anne-Frank-Stichting/Anne-Frank-Kennisbank/download.trig.gz",
-			"description": "TriG download"
-		},
-		{
-			"@type": "DataDownload",
-			"encodingFormat": "application/n-triples",
-			"contentUrl": "https://data.netwerkdigitaalerfgoed.nl/Anne-Frank-Stichting/Anne-Frank-Kennisbank/download.nt.gz",
-			"description": "N-Triples download"
-		},
-		{
-			"@type": "DataDownload",
-			"encodingFormat": "application/n-quads",
-			"contentUrl": "https://data.netwerkdigitaalerfgoed.nl/Anne-Frank-Stichting/Anne-Frank-Kennisbank/download.nq.gz",
-			"description": "N-Quads download"
-		},
-		{
-			"@type": "DataDownload",
-			"encodingFormat": "text/turtle",
-			"contentUrl": "https://data.netwerkdigitaalerfgoed.nl/Anne-Frank-Stichting/Anne-Frank-Kennisbank/download.ttl.gz",
-			"description": "Turtle download"
-		},
-		{
-			"@type": "DataDownload",
-			"encodingFormat": "application/ld+json",
-			"contentUrl": "https://data.netwerkdigitaalerfgoed.nl/Anne-Frank-Stichting/Anne-Frank-Kennisbank/download.jsonld.gz",
-			"description": "JSON-LD download"
-		},
-		{
-			"@id": "https://data.netwerkdigitaalerfgoed.nl/Anne-Frank-Stichting/Anne-Frank-Kennisbank/sparql/default",
-			"@type": "DataDownload",
-			"name": "default",
-			"encodingFormat": "application/sparql-results+json",
-			"contentUrl": "https://api.data.netwerkdigitaalerfgoed.nl/datasets/Anne-Frank-Stichting/Anne-Frank-Kennisbank/services/default/sparql",
-			"description": "SPARQL endpoint"
-		}
 	]
 }
